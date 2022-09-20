@@ -7,8 +7,7 @@ This app asks you the capital of a certain country. In this case, it asks the ca
 
 App Walk-though:
 
-<img src=
-"![lab1](https://user-images.githubusercontent.com/111587247/191170991-3bf161de-4df9-44e9-9054-8437e9cc35d5.gif)" width=200><br>
+<img src="![lab1](https://user-images.githubusercontent.com/111587247/191171349-e69a7fd6-d998-40d5-a468-f7c61eca79b7.gif)" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
