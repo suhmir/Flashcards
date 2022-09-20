@@ -7,7 +7,7 @@ This app asks you the capital of a certain country. In this case, it asks the ca
 
 App Walk-though:
 
-![Kapture 2022-09-19 at 21 56 25](https://user-images.githubusercontent.com/111587247/191171439-a6ddda61-0e3b-43ec-87c4-d25ea40ccc9b.gif)
+![Kapture 2022-09-19 at 21 56 25 2](https://user-images.githubusercontent.com/111587247/191171944-7e6dc3d8-dafa-4334-a80d-73ed1b450f86.gif)
 
 ## Required
 - [x] Create New Project in Xcode
